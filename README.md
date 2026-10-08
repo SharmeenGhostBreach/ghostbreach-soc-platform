@@ -1,6 +1,9 @@
 ## SOC Platform Preview
+Here is a preview of the GhostBreach Security Operations Center dashboard.
 
-![GhostBreach SOC Demo](documents/screenshots/soc-demo.png)# GhostBreach Security Operations Center (SOC)
+[GhostBreach SOC Demo](documents/screenshots/soc-demo.png)
+
+# GhostBreach Security Operations Center (SOC)
 
 A cybersecurity-themed SOC dashboard built for a university **Advanced Programming** project.
 React frontend, Express.js REST API, MongoDB Atlas database, JWT authentication and full CRUD for
